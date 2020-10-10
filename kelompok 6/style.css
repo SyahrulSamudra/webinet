@@ -1,0 +1,45 @@
+.navbar-nav{
+    float: right;
+    position: absolute;
+    right: 20px;
+}
+.display-3{
+    color: aliceblue;
+}
+.isijumbotron{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.jarak{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.kegiatan{
+    background: url("asset/img/net.jpg");
+    margin-left: 50px;
+}
+.wkwk{
+    margin-left: 50px;    
+}
+.featurette{
+    margin-bottom: 60px;
+    margin-left: 100px;
+}
+.foto-kgtn{
+    height: 300px;
+    border-radius: 15px;
+}
+.bayangan{
+    text-shadow: 4px 4px 4px gray;
+}
+.skrol{
+    scroll-behavior: smooth;
+}
+.tabel {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 0%;
+}
+  
